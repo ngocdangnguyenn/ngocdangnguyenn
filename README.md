@@ -1,4 +1,4 @@
-## Welcome
+## ✨ Welcome
 I'm a third-year Computer Science student at Aix-Marseille University, passionate about transforming data into insights and building intelligent solutions. Data Science and AI are my playground—where curiosity meets code.
 ### What drives me
 I'm motivated by the challenge of solving real-world problems through data and machine learning. I learn best by doing—building projects, experimenting with new tools, and pushing my technical boundaries. Every dataset tells a story, and I'm here to uncover it.
