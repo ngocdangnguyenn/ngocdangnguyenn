@@ -11,4 +11,4 @@ Trilingual in English, French, and Vietnamese, I thrive in collaborative, multic
 I'm actively seeking a Data or AI internship starting in April 2026 to apply my skills, gain hands-on industry experience, and prepare for a Master's in Artificial Intelligence.
 ### Let's connect
 - Email: nndnguyen2016@gmail.com
-- Linkedin : https://www.linkedin.com/in/ngocnguyen-fr/
+- Linkedin : https://www.linkedin.com/in/ngocdangnguyenn/
