@@ -12,3 +12,4 @@ I'm actively seeking a Data or AI internship starting in April 2026 to apply my 
 ### Let's connect
 - Email: nndnguyen2016@gmail.com
 - Linkedin : https://www.linkedin.com/in/ngocdangnguyenn/
+- Portfolio : https://ngocdangnguyenn.github.io/portfolio/
